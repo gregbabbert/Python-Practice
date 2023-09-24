@@ -21,3 +21,37 @@ ageInt = int("25")
 # range for ranges
 # dict for dictionaries
 # set for sets
+
+# Arithmetic Operators
+# % boolean
+# ** exponent
+# // division and rounds down 5 // 2 = 2
+
+# operators
+# ==, !=, >, <=
+
+# boolean operators
+# not = !
+# or = ||
+# and = &
+# is = used to compare objects, returns true if both objects are the same
+
+def is_adult(age):
+    if age > 18:
+        return True
+    else:
+        return False
+def is_adult2(age):
+    return True if age > 18 else False
+
+print("""I
+      
+      am
+      writing on a multiline 
+      
+      string""")
+
+# string.upper() string.lower() string.title() string.islower() string.startswith() string.endswith()
+# string.strip() = string.trim()
+
+# len(string) = string.length()
