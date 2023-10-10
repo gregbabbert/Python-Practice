@@ -55,3 +55,23 @@ print("""I
 # string.strip() = string.trim()
 
 # len(string) = string.length()
+
+print("here is to add a \" in a string")
+
+# slice
+testString = 'Here is a test string'
+print(testString[1:3])
+print(testString[:3])
+print(testString[1:])
+
+# imaginary numbers
+imaginaryNum = complex(2,3)
+print(imaginaryNum.real, imaginaryNum.imag)
+
+# built in python functions
+print(abs(-5.5)) # 5.5
+print(round(5.5)) # 6
+
+dogs = ['Max', 'Sydeny', 'Muffin']
+dogs.remove('Muffin')
+print(dogs)
