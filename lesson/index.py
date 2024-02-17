@@ -72,7 +72,7 @@ print(imaginaryNum.real, imaginaryNum.imag)
 print(abs(-5.5)) # 5.5
 print(round(5.5)) # 6
 
-dogs = ['Max', 'Sydeny', 'Muffin']
+dogs = ['Max', 'Sydeny', 'Muffin', 'Penny']
 dogs.remove('Muffin')
 print(dogs)
 
