@@ -70,7 +70,7 @@ print(imaginaryNum.real, imaginaryNum.imag)
 
 # built in python functions
 print(abs(-5.5)) # 5.5
-print(round(5.5)) # 6
+print(round(5.5)) # 6 is the answer
 
 dogs = ['Max', 'Sydney', 'Muffin', 'Penny']
 dogs.remove('Muffin')
